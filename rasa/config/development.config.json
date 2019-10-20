@@ -1,0 +1,37 @@
+{
+    "template":{
+        "module": "bot"
+    },
+    "dashbot":{
+        "api": "https://tracker.dashbot.io/track?platform=universal&v=10.1.1-rest&type=%s&apiKey=%s",
+        "bot":{
+            "api_key": "oewnyvmbZDgPaiQha2XTjfgmphQ4JBE8MFGidglL"
+
+    },
+    "server":{
+        "actions_endpoint": "http://localhost:5055/webhook",
+        "nlg_endpoint": "http://localhost:5006/nlg"
+    },
+    "websocket":{
+        "port": 3001
+    },
+    "pic":{
+        "email": "anton@bluelogic.ae"
+    },
+    "bluelog":{
+        "host": "mongodb://18.222.189.3:27017",
+        "username": "BluebotLog",
+        "password": "bluelogic123",
+        "authsource": "chatlog",
+        "db": "chatlog"
+    },
+    "nlu":{
+        "threshold": 0.65
+    },
+    "response": {
+      "path": "data/bot/database/response.json"
+    },
+    "delay_time": 1.0
+
+}
+

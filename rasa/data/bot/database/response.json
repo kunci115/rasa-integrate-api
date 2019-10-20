@@ -1,0 +1,79 @@
+{
+  "utter_greet": {
+    "en": {
+      "content": {
+        "type": "text",
+        "elements": [
+          "Hey! How are you?"
+        ]
+      }
+    }
+  },
+  "utter_cheer_up": {
+    "en": {
+      "content": {
+        "type": "text",
+        "elements": [
+          "Here is something to cheer you up:"
+        ]
+      },
+      "content": {
+        "type": "image",
+        "elements": [
+          "https://i.imgur.com/nGF1K8f.jpg"
+        ]
+      }
+    }
+  },
+  "utter_did_that_help": {
+    "en": {
+      "content": {
+        "type": "text",
+        "elements": [
+          "Did that help you?"
+        ]
+      }
+    }
+  },
+  "utter_happy": {
+    "en": {
+      "content": {
+        "type": "text",
+        "elements": [
+          "Great, carry on!"
+        ]
+      }
+    }
+  },
+  "utter_goodbye": {
+    "en": {
+      "content": {
+        "type": "text",
+        "elements": [
+          "Bye"
+        ]
+      }
+    }
+  },
+  "utter_iamabot": {
+    "en": {
+      "content": {
+        "type": "text",
+        "elements": [
+          "I am a bot, powered by Rasa."
+        ]
+      }
+    }
+  },
+    "utter_default_fallback": {
+      "en": {
+        "content": {
+          "type": "text",
+          "elements": [
+            "Sorry i did not understand you"
+          ]
+        }
+      }
+    }
+}
+

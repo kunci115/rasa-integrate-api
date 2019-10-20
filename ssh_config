@@ -1,0 +1,5 @@
+Host gitlab
+    Hostname gitlab.com
+    IdentityFile ~/.ssh/id_rsa.clientinstance
+    StrictHostKeyChecking no
+    IdentitiesOnly yes
