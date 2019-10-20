@@ -1,2 +1,2 @@
 rasa==1.3.7
-git+ssh://git@gitlab.com:bluelogic/bl-core.git@rasa_1_django_chat_builder
+git+ssh://git@gitlab.com/bluelogic/bl-core.git@rasa_1_django_chat_builder
