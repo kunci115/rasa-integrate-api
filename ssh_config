@@ -1,4 +1,4 @@
-Host gitlab
+Host gitlab.com
     Hostname gitlab.com
     IdentityFile ~/.ssh/id_rsa.clientinstance
     StrictHostKeyChecking no
