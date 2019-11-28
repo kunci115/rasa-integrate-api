@@ -1,3 +1,1 @@
-# clientinstance
-
-this is repository for client instance
+repositry an example to use rasa with api integration
