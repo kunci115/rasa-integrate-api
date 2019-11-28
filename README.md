@@ -1,1 +1,1 @@
-repositry an example to use rasa with api integration
+repository an example to use rasa with api integration
